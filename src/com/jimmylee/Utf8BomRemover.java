@@ -1,4 +1,4 @@
-package com.jimmylee.util;
+package com.jimmylee;
 import java.io.File;
 import java.io.IOException;
 import java.util.Collection;
