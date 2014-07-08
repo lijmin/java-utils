@@ -7,6 +7,11 @@ import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
 import java.security.MessageDigest;
 
+/**
+ * 计算文件md5
+ * @author jimmylee
+ * @version 创建时间：2014年7月8日  上午2:27:57
+ */
 public class MD5Filter {
 
 	public static String getMd5ByFile(File file) {
