@@ -5,3 +5,4 @@ java utils
 * Utf8BomRemover: [去除utf8编码的bom](src/com/jimmylee/Utf8BomRemover.java)
 * Coder: [加密解密方法](src/com/jimmylee/Coder.java)
 * ZipCompressing: [ZIP解压缩](src/com/jimmylee/ZipCompressing.java)
+* BinaryUtil.java: [二进制工具类](src/com/jimmylee/BinaryUtil.java)
